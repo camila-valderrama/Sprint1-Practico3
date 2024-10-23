@@ -1,0 +1,27 @@
+{
+  "name": "sprint1-practico3",
+  "version": "1.0.0",
+  "description": "find a superhero and its description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camila-valderrama/Sprint1-Practico3.git"
+  },
+  "keywords": [
+    "ip",
+    "hero",
+    "country"
+  ],
+  "author": "\"Camila / <camival91@hotmail.com/>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camila-valderrama/Sprint1-Practico3/issues"
+  },
+  "homepage": "https://github.com/camila-valderrama/Sprint1-Practico3#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
