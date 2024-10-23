@@ -14,5 +14,6 @@
             "nombreSociedad": "Dios del trueno", "edad": 1000,
             "panetaOrigen": "Asgard", "debilidad": "Destruir su martillo",
             "poder": ["Controlar el trueno", "Fuerza sobrehumana", "Inmortal"], 
-            "habilidadEspecial": "Invocación de tormentas", "aliado": ["Loki"], "enemigo": ["Hela"]},
+            "habilidadEspecial": "Invocación de tormentas", "aliado": ["Loki"], "enemigo": ["Hela"]}
 ]
+    
