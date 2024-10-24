@@ -7,7 +7,7 @@ const app = express();
 const PORT = 3000;
 
 //Ruta básica
-app.get('/', (req, res) => {
+/*app.get('/', (req, res) => {
     res.send('¡Hola, Mundo!');
 
 });
@@ -16,11 +16,11 @@ app.get('/', (req, res) => {
 app.listen(PORT, () => {
     console.log(`Servidor corriendo en http://localhost:${PORT}`);
     
-});
+});*/
 
 //Ruta GET con parámetro de consulta
 //Solicitud: http://localhost:3000/profile?edad=30
-app.get('./profile', (req, res) => {
+app.get('/profile', (req, res) => {
     const edad = req.query.edad;
     console.log(`Edad recibida: ${edad}`);
     res.send(`Edad del perfil: ${edad}`); 
